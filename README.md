@@ -1,2 +1,3 @@
-# Quiz-App
-its simple quiz app
+# Quiz App
+
+Built completely with ReactJS using Hooks and the Context API.
